@@ -12,8 +12,8 @@ function cancel(){
 // Animasi Menulis
 
 const texts = [
-    "DEVELOPER",
-    "COUSTEMER SERVICE",
+    "OWNER",
+    "CREATOR",
     "FOUNDER XZ TEAM"
 ]
 
